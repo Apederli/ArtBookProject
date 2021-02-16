@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2039D686-EC0A-48FF-94E8-FEAF17079327"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BD4D194-39F0-4632-859D-DA88523FF011"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtBookProject/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "saveButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31D5516A-6EFB-494E-9C0F-23024B479AD2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtBookProject/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "31D5516A-6EFB-494E-9C0F-23024B479AD2 - 355bac09dd9c4346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailViewController.chosenPaintingId.getter : Swift.Optional&lt;Foundation.UUID&gt;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aydoganpederli/Desktop/IphoneProgram/ArtBookProject/ArtBookProject/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "31D5516A-6EFB-494E-9C0F-23024B479AD2 - d20ed0d3d4de6f52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailViewController.chosenPaintingId.setter : Swift.Optional&lt;Foundation.UUID&gt;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aydoganpederli/Desktop/IphoneProgram/ArtBookProject/ArtBookProject/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "31D5516A-6EFB-494E-9C0F-23024B479AD2 - fa47c3726c8aed5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailViewController.chosenPaintingId.modify : Swift.Optional&lt;Foundation.UUID&gt;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aydoganpederli/Desktop/IphoneProgram/ArtBookProject/ArtBookProject/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "31D5516A-6EFB-494E-9C0F-23024B479AD2 - e895bb95c4a143cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailViewController.chosenPaintingId.modify : Swift.Optional&lt;Foundation.UUID&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aydoganpederli/Desktop/IphoneProgram/ArtBookProject/ArtBookProject/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "31D5516A-6EFB-494E-9C0F-23024B479AD2 - 3409c5da9014493b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ArtBookProject.DetailViewController"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aydoganpederli/Desktop/IphoneProgram/ArtBookProject/ArtBookProject/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  uuid = "31D5516A-6EFB-494E-9C0F-23024B479AD2 - 50045e3ee3c933de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArtBookProject.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ArtBookProject.DetailViewController&gt;"
+                  moduleName = "ArtBookProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aydoganpederli/Desktop/IphoneProgram/ArtBookProject/ArtBookProject/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "864">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4341FED8-F84C-4A70-BC96-B654BFBCF54D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtBookProject/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F67D5E4-9CE2-4951-A0ED-4F618FFD17BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArtBookProject/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
